@@ -1,2 +1,4 @@
 # Gitting
-Studies
+
+
+Estudando sobre versionamento, modificações e commit
